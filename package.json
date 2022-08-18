@@ -1,0 +1,24 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "!-- Title \r # note_taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Greenreggie10/note_taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Greenreggie10/note_taker/issues"
+  },
+  "homepage": "https://github.com/Greenreggie10/note_taker#readme",
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.18.1"
+  }
+}
