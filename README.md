@@ -1,5 +1,5 @@
 !-- Title 
-# note_taker
+# Note_Taker
 
 
 
@@ -7,41 +7,29 @@
 
 /*The website is built and developed using Visual Studio Code (VS Code).
 /*javascript was used to create the app's content.
+/*Heroku
 /*package.json&npm init was used to style and format the dashboard.
 /*All answers to produces a quality ReadMe are enetered into the terminal.
 /*Github published the repository website.
 
-## !-- sites URL-->
-
-[Watch live demo](https://drive.google.com/file/d/1y9ISrFe-YeZxTFSUydaJe0qXAod5LmN-/view);
-
-Utilizing this app is simple with Node.js:
-
-1. From the command line, clone the repo to your local machine using `git clone`.
-
-2. Navigate into the root directory and run `npm install` to install the necessary packages.
-
-3. Once the installation has finished, run `node index` to initialize the application.
-
-4. Follow the prompts to provide your GitHub username, email address, project title, project description, etc., and click enter after each response. (For the license question, use the Up and Down arrow keys to navigate through the list and click enter. Use the `No License` option at the top of the list if you want to skip that section in the README.)
-
-5. Once you have answered all of the questions, you should get a message that a README.md file has been created successfully. You can find it by running `cd output` to access the output directory and then opening `README.md` in your preferred code editor.
-
 ## !-- stillshot of site -->
-High quailty Readme is generated from the responses enetered in command-line:
-![alt text](.main/../main/images/Screenshot%20(Readme).png)
+Note Taker
+![alt text]()
 
 ## !-- description of the site purpose -->
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[Application deployed on Heroku]()
 
-The link above shows a high-quality README for the app.  To help developers save time, this command-line application takes some user input and quickly generates a professional README.md file for their GitHub repo.
+The link above connects to the the heroku app. once you access heroku and  efficently create a user friendly code tinote 
+there small business 
 
 
+## !-- Usage  -->        
+I was provided some basic front end files for a note taking app and asked to use Express.js to set up a server and write the API and HTML routes that would allow the user to get the list of notes and add new notes.
 
-## !--Testing && Results -->
-/*coding the display of readme           
-/*github was difficult to differentiate between to produced results and the initial readme.md 
+The plus sign icon at the top right of the screen allows the user to start writing a new note, and the floppy disk icon that pops up beside it lets the user save that new note.
+
+I was also challenged to write a delete route that would allow the user to delete a note from the list by clicking the red trash can icon beside it. I managed to update the code to let that work (with an additional page refresh after each deletion), but the functionality is spotty on the Heroku deployment for reasons I haven't yet figured out. I'll need further testing to troubleshoot that issue.
 
 ## !-- author & contributors -->
 
@@ -54,5 +42,3 @@ REGINALD GREEN
 ## !-- updates -->
 
 "inital"    
-"questions to ask"    
-"readme modified"    
