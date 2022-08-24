@@ -14,11 +14,11 @@
 
 ## !-- stillshot of site -->
 Note Taker
-![alt text]()
+![alt text](./public/images/Screenshot%20(47).png)
 
 ## !-- description of the site purpose -->
 
-[Application deployed on Heroku]()
+[Application deployed on Heroku](http://localhost:3001/notes)
 
 The link above connects to the the heroku app. once you access heroku and  efficently create a user friendly code tinote 
 there small business 
