@@ -18,7 +18,7 @@ Note Taker
 
 ## !-- description of the site purpose -->
 
-[Application deployed on Heroku](http://localhost:3001/notes)
+[Application deployed on Heroku](https://rocky-peak-57930.herokuapp.com/)
 
 The link above connects to the the heroku app. once you access heroku and  efficently create a user friendly code tinote 
 there small business 
