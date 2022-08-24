@@ -23,11 +23,3 @@ app.listen(PORT, () =>
   console.log(`Example app listening at http://localhost:${PORT}`)
 );
 
-//import route 
-
-//create routes
-// git and post 
-//&& delete 
-
-//read file async to get all notes 
-//write all to async to create new notes 
