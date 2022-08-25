@@ -3,13 +3,13 @@
 
 
 
-## !-- list of technologies used -->
+## !-- list of technologies & features used -->
 
 /*The website is built and developed using Visual Studio Code (VS Code).
 /*javascript was used to create the app's content.
 /*Heroku
 /*package.json&npm init was used to style and format the dashboard.
-/*All answers to produces a quality ReadMe are enetered into the terminal.
+/*A quality ReadMe are enetered into the terminal.
 /*Github published the repository website.
 
 ## !-- stillshot of site -->
@@ -20,7 +20,7 @@ Note Taker
 
 [Application deployed on Heroku](https://rocky-peak-57930.herokuapp.com/)
 
-The link above connects to the the heroku app. once you access heroku and  efficently create a user friendly code tinote 
+The link above connects to the the heroku app. once you access heroku and  efficently create a user friendly code to note important imformation about  
 there small business 
 
 
@@ -41,4 +41,9 @@ REGINALD GREEN
 
 ## !-- updates -->
 
+"inital" 
 "inital"    
+"readme"
+"added server edit"
+"routing"
+"finalx3"
